@@ -8,5 +8,6 @@ class TestBird {
 		myBird.fly(10000);
 		myBird.fly("eagle", 10000);
 		System.out.println("done");
+		System.out.println("again");
 	}
 }
